@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2013-2015 The CyanogenMod Project
+     SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">அமைப்பு வழிகாட்டி</string>
+    <string name="next">அடுத்து</string>
+    <string name="skip">தவிர்</string>
+    <string name="start">தொடங்கு</string>
+    <string name="ok">சரி</string>
+    <string name="loading">வெறும் ஒரு வினாடி\u2026</string>
+    <string name="emergency_call">அவசரகால அழைப்பு</string>
+    <string name="sim_locale_changed">%1$s SIM கண்டறியப்பட்டது.</string>
+    <string name="setup_sim_missing">SIM கார்டு காணவில்லை</string>
+    <string name="sim_missing_summary" product="tablet">உங்கள் டேப்ளட்டில் ஒரு SIM கார்டு கண்டுபிடிக்கப்படவில்லை. ஒரு SIM கார்டை செருக, உங்கள் சாதனத்துடன் வரும் நெறிமுறைகளை படிக்கவும்.</string>
+    <string name="sim_missing_summary" product="default">உங்கள் தொலைப்பேசியில் ஒரு SIM கார்டு கண்டுபிடிக்கப்படவில்லை. ஒரு SIM கார்டை செருக, உங்கள் சாதனத்துடன் வரும் நெறிமுறைகளை படிக்கவும்.</string>
+    <string name="setup_datetime">தேதி &amp; நேரம்</string>
+    <string name="date_time_summary">உங்கள் நேர மண்டலத்தையும் தேவைப்பட்டால் நடப்பு தேதி மற்றும் நேரத்தையும் அமைக்கவும்</string>
+    <string name="setup_current_date">நடப்பு தேதி</string>
+    <string name="setup_current_time">நடப்பு நேரம்</string>
+    <string name="setup_location">இருப்பிடச் சேவைகள்</string>
+    <string name="location_access_summary">உங்கள் இருப்பிட தகவல்களை பயன்படுத்துவதற்கு <b>உங்களிடம் அனுமதி கேட்ட பயன்பாடுகளை அனுமதிக்கவும்.</b> இது உங்களது நடப்பு இருப்பிடம் மற்றும் முந்தைய இருப்பிடத்தை உள்ள்டக்கலாம்.</string>
+    <string name="services_os_nav_keys_label"><b>வன்பொருள் விசைகளுக்கு பதிலாக திரையிலுள்ள</b> வழிச்செல்லுதல் விசைகளை பயன்படுத்தவும்</string>
+</resources>
